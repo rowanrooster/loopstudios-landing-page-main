@@ -11,4 +11,4 @@ This is a solution to the [Loopstudios landing page challenge on Frontend Mentor
 ### Links
 
 - [Frontend Mentor](https://www.frontendmentor.io/profile/rowanrooster)
-- [Live Preview](https://rowanrooster.github.io/agency-landing-page/)
+- [Live Preview](https://rowanrooster.github.io/loopstudios-landing-page-main/)
